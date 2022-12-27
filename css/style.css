@@ -92,7 +92,7 @@ body {
 }
 .alertcontainer .loginBtn .Sign {
   width: 100%;
-  height: 110vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -150,7 +150,7 @@ body {
 }
 .alertcontainer .loginBtn .Signup {
   width: 100%;
-  height: 110vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
